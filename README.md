@@ -7,6 +7,7 @@ Our goal in this project to take up natural language text and convert to a Panda
 - [Usage](#usage)
 - [Setting Up Groq](#Setting_Up_Groq)
 - [Running the Script](#Script)
+- [Collaborator](#Collab)
 
 ## Introduction
 In this project, we aim to convert our natural text to a Pandas code, with an aim to further use it for much important and challenging cases.
@@ -36,4 +37,7 @@ Additional documentation can be found at https://console.groq.com/docs/quickstar
 
 ## Running the Script
 You are suggested to use the IPYNB file, make sure you add questions.txt
+
+## Colaborator
+Mihika Likhite
 
